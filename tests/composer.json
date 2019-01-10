@@ -1,0 +1,8 @@
+{
+    "name": "UNA.IO/UNA Tests",
+    "require-dev": {
+        "phpunit/phpunit": "6.*",
+        "sebastian/phpcpd": "*",
+        "phpmd/phpmd": "@stable"
+    }
+}
